@@ -8,3 +8,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
+
+# Google services
+google_analytics: G-R1KJGKD51Q
